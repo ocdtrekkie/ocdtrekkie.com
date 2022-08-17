@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/ocdtrekkie
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.ocdtrekkie.com
+  * I am ocdtrekkie (https://keybase.io/ocdtrekkie) on keybase.
+  * I have a public key with fingerprint 7116 FC11 50C0 C96E F251  B9A8 9324 AC39 21F3 DE70
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "7116fc1150c0c96ef251b9a89324ac3921f3de70",
+            "host": "keybase.io",
+            "key_id": "9324ac3921f3de70",
+            "kid": "0101798edc57a84f5dfebd27bf170ac73550de8752848ebea7f47957d038f7cc582b0a",
+            "uid": "b9c981f5b4997038fdd33cf50c07db19",
+            "username": "ocdtrekkie"
+        },
+        "service": {
+            "hostname": "www.ocdtrekkie.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1439856755,
+    "expire_in": 157680000,
+    "prev": "5758e9d23cb25ad6dc95984ad8fc193634332f36d99b7979e93cd622541ee07c",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.41
+Comment: https://keybase.io/crypto
+
+yMIdAnicbZJtSBRBGIDPLMOPIMqwfhS1UR5xHPs1OztHhmBSRiREFxXFuTsze22X
+u9feehpSiJhRRBhpUVImYSB9UmEmUSligRD25UUk2Y+jQKggkD6t2cPoT/NnmHee
+93nnnZnBOdm+vKzylsUjBYbqZg33r6/xhZ/VJeo53Sb7uVA9F6OZyTCtKHXijmm5
+XIiDgqAYWBAAj3mMFGqIQNCRpiJJlDUsIVEwJEIhzwW43XbCy2AaXUvQoGmzGFtE
+TMKi/+FjmQ1e4AWIVEowgJoqG4AYVCci1A0B8hqGEgA8oSoEoiqrVKcaNGSIACS8
+pBoQY6CKOq8xXU1GpyOMVMEAuowQ9BBCJAkb3vEh0QXkgQnqWFo1ZbSNievQWMyk
+3IEAx+JJE1PvErxeppna2trgPy6I7WrmiDu2a2N7L9vf7brxkJfu7o9neKpHpk0R
+3bQIu06WkKROwrQtLiQwErumpxZkCalAgQAEOFoXNx0aMT0CQEXl2fDK0CRTAghU
+iogoYV0EGlEIRgCpskZU9jRIUiRZkkRDUghCOkQQUSRhoogikAVKeYg5r7d9ls2F
+WCVXizJlwoxamlvjsMYHHu6c6cvK8+XMmuF9CF9e7ty/32TH+OzflUVfnxd1ri3+
+XZVu6xq7P9n33lccHtrcmoqlD/VuuBFtam0klycWGg0FUX2k+4z26mN7c+G2ks7B
+g8etgXeHf64qLXk6/OLUrJW3cmaKexpuO/HJz1fh3l/DW09vmepw8Y/UddVf1DIK
+Lzz/Jj/annsleLb37oNHbah+dGBs9GDZeFWk82X7RI92oXAs/MY/9Z1U9Ny5du59
++GTBkc9lN7cMfVgRf/y2d2F18aJUU/P5dU8qSjuWLD8auNI037/AL3Zszt/Z3Pv9
+4rYTx+aVx5emN3zpm0j2pC8t68oP515b86T91Kfu7LyGe+7qjRGTf1VpnXz9M7Ur
+58Wm8fJ3jU5/MvoH4QAxuw==
+=y5EG
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ocdtrekkie
+
+==================================================================
